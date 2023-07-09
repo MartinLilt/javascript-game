@@ -1,1 +1,1 @@
-# javascript-game
+![One Pirate Peso](peso-banner.png)
