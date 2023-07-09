@@ -1,1 +1,1 @@
-![One Pirate Peso](peso-banner.png)
+![One Pirate Peso](OnePiratePeso.jpg)
