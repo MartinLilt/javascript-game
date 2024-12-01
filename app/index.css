@@ -1,0 +1,17 @@
+:root {
+    --background-color: black;
+    --game-canvas-color: black;
+}
+
+body {
+    background: var(--background-color);
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+}
+
+#game {
+    background: var(--game-canvas-color);
+    width: 100%;
+    height: 100%;
+}

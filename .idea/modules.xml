@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CppBackend.iml" filepath="$PROJECT_DIR$/.idea/CppBackend.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javascript-game.iml" filepath="$PROJECT_DIR$/.idea/javascript-game.iml" />
     </modules>
   </component>
